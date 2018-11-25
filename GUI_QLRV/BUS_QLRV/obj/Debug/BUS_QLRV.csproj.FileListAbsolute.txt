@@ -31,3 +31,14 @@ C:\winform\GIT\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.csproj.CoreCompileInputs.cac
 C:\winform\GIT\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.csproj.CopyComplete
 C:\winform\GIT\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.dll
 C:\winform\GIT\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\bin\Debug\BUS_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\bin\Debug\BUS_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\bin\Debug\DAO_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\bin\Debug\DTO_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\bin\Debug\DAO_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\bin\Debug\DTO_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.csprojAssemblyReference.cache
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.csproj.CoreCompileInputs.cache
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.csproj.CopyComplete
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\BUS_QLRV\obj\Debug\BUS_QLRV.pdb

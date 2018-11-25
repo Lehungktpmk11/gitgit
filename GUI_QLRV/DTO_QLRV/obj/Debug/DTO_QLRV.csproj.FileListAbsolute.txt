@@ -10,3 +10,9 @@ C:\winform\taive\GUI_QLRV\DTO_QLRV\obj\Debug\DTO_QLRV.csprojAssemblyReference.ca
 C:\winform\taive\GUI_QLRV\DTO_QLRV\obj\Debug\DTO_QLRV.csproj.CoreCompileInputs.cache
 C:\winform\taive\GUI_QLRV\DTO_QLRV\obj\Debug\DTO_QLRV.dll
 C:\winform\taive\GUI_QLRV\DTO_QLRV\obj\Debug\DTO_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\DTO_QLRV\bin\Debug\DTO_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\DTO_QLRV\bin\Debug\DTO_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\DTO_QLRV\obj\Debug\DTO_QLRV.csprojAssemblyReference.cache
+C:\Projects\QLGV\GUI_QLRV\DTO_QLRV\obj\Debug\DTO_QLRV.csproj.CoreCompileInputs.cache
+C:\Projects\QLGV\GUI_QLRV\DTO_QLRV\obj\Debug\DTO_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\DTO_QLRV\obj\Debug\DTO_QLRV.pdb

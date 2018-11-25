@@ -8,6 +8,6 @@ namespace DAO_QLRV
 {
     public class DBconnect
     {
-        public string connectstring = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\winform\taive\GUI_QLRV\GUI_QLRV\RV.mdf;Integrated Security=True";
+        public string connectstring = @"Data Source=.\SQLEXPRESS;Initial Catalog=DBRV;Integrated Security=True";
     }
 }

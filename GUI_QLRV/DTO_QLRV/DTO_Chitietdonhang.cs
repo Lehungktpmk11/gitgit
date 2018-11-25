@@ -13,6 +13,13 @@ namespace DTO_QLRV
         private string sPID;
         private Single giaMua;
         private int sl;
+        private Single thanhTien;
+
+        public Single TTien
+        {
+            get { return thanhTien; }
+            set { thanhTien = value; }
+        }
 
         public int SL
         {
@@ -47,14 +54,14 @@ namespace DTO_QLRV
         {
 
         }
-        public DTO_Chitietdonhang(int s, string d, string sp, Single g, int sl)
+        public DTO_Chitietdonhang(int s, string d, string sp, Single g, int sl, Single tt)
         {
             this.STT = s;
             this.DHID = d;
             this.Spid = sp;
             this.Giamua = g;
             this.SL = sl;
-
+            this.TTien = tt;
         }
     }
 }

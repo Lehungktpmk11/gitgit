@@ -8,7 +8,7 @@ namespace DTO_QLRV
 {
     public class DTO_Donhang
     {
-        private string iD;
+       
         private string dHID;
         private string kHID;
         private DateTime ngayMua;
@@ -38,19 +38,15 @@ namespace DTO_QLRV
             set { dHID = value; }
         }
 
-        public string ID
-        {
-            get { return iD; }
-            set { iD = value; }
-        }
+       
         
         public DTO_Donhang()
         {
 
         }
-        public DTO_Donhang(string id, string dhid, string khid, DateTime d, Single g)
+        public DTO_Donhang( string dhid, string khid, DateTime d, Single g)
         {
-            this.ID = id;
+           
             this.Dhid = dhid;
             this.Khid = khid;
             this.Ngaymua = d;

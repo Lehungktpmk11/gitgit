@@ -25,3 +25,12 @@ C:\winform\GIT\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.csproj.CoreCompileInputs.cac
 C:\winform\GIT\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.csproj.CopyComplete
 C:\winform\GIT\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.dll
 C:\winform\GIT\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\bin\Debug\DAO_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\bin\Debug\DAO_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\bin\Debug\DTO_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\bin\Debug\DTO_QLRV.pdb
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.csprojAssemblyReference.cache
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.csproj.CoreCompileInputs.cache
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.csproj.CopyComplete
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.dll
+C:\Projects\QLGV\GUI_QLRV\DAO_QLRV\obj\Debug\DAO_QLRV.pdb
